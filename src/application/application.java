@@ -46,9 +46,7 @@ public class application {
 		account.saque(saque);
 		System.out.print("Updated account data: \n" + account);
 		
-		/*System.out.println();
-		System.out.print("Account data: \n" + account);
-	*/
+		System.out.print("Bom dia");
 		sc.close();
 
 	}
