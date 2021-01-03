@@ -47,6 +47,9 @@ public class application {
 		System.out.print("Updated account data: \n" + account);
 		
 		System.out.print("Bom dia");
+		System.out.print("Bom Tarde");
+		
+		
 		sc.close();
 
 	}
